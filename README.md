@@ -25,6 +25,8 @@ to see more demos and learn about detectron2.
 
 See [installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
 
+Successfully Installed on windows with Pytorch==1.8.0 
+
 Installation on windows is explained here
 See [Detectron2-Windows](https://medium.com/@yogeshkumarpilli/how-to-install-detectron2-on-windows-10-or-11-2021-aug-with-the-latest-build-v0-5-c7333909676f)
 
